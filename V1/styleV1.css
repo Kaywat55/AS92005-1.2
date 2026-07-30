@@ -91,7 +91,7 @@ h2{
   border-radius: 15px;
 }
 .bottemtext{
-  font-size: 25px;
+  font-size: 22px;
   padding: 30px;
   text-align: center;
 }
@@ -137,4 +137,18 @@ h2{
 .card2text p{
   font-size: 20px;
   padding: 0px 20px 20px 20px;
+}
+.button{
+  text-align: center;
+  text-decoration: none;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  background-color: #03595c;
+  padding: 6px 40px; 
+  font-weight: 900;
+  border-radius: 15px;
+}
+.button a:hover{
+  background-color: #017478
 }

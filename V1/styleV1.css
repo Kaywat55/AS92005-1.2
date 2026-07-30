@@ -115,10 +115,11 @@ h2{
 .card2img{
   border-radius: 15px ;
   width: 30%;
+  margin: 20px;
 }
 .card2{
   display: flex;       
-  align-items: flex-start;
+  align-items: center;
   border-radius: 15px;
   border: 1px solid #eee;
   background-color: rgb(214, 214, 214);

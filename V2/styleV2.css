@@ -52,6 +52,15 @@ h1 {
 .navbar .logo {
   float: left;
 }
+.navbar .logo img{
+  float: left;
+  max-height: 100%;
+  width: auto;
+}
+.navbar .logo a{
+  padding: 0;
+  margin: 0;
+}
 .navbar .logo img {
   height: 100px;
   padding: 5px;

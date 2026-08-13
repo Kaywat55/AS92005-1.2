@@ -107,7 +107,7 @@ h2{
 .info{
   border-radius: 15px;
   border: 1px solid #eee;
-  background-color: rgb(230, 230, 230);
+  background-color: rgba(3, 89, 92);
   margin: 50px 100px;
 }
 .infohead{
@@ -115,11 +115,13 @@ h2{
   font-weight: 600;
   text-align: center;
   padding-top: 20px;
+  color:;
 }
 .infotext{
   font-size: 28px;
   text-align: center;
   padding: 30px;
+  color: white;
 }
 .card2img{
   border-radius: 15px ;

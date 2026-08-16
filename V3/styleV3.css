@@ -81,6 +81,8 @@ h1 {
   width: 100%;
   border-radius: 15px;
   padding-bottom: 10px;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
 }
 h2{
   padding-bottom: 15px;
@@ -115,7 +117,7 @@ h2{
   font-weight: 600;
   text-align: center;
   padding-top: 20px;
-  color:;
+  color: white ;
 }
 .infotext{
   font-size: 28px;
